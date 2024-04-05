@@ -18,7 +18,7 @@ Usage
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/Rathika02/mnist-autoencoder.git
+git clone https://github.com/POOMIKA/autoencoder
 Navigate to the project directory:
 bash
 Copy code
